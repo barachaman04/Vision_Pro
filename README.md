@@ -9,4 +9,5 @@ Interactive Elements: Includes interactive elements like sliders, buttons, and a
 Detailed Product Information: Comprehensive sections describing the Vision Pro Apple, its features, and specifications.
 Modern Design: Clean and modern design to align with the Apple brand aesthetics.
 
-<img width="1440" alt="Screenshot 2024-07-18 at 11 01 47 PM" src="https://github.com/user-attachments/assets/3736749c-4173-4dc3-b8e6-1c4d576ba2e0">
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/b07722f0-effc-470f-971e-bddb201d4d24">
+
